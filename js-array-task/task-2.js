@@ -4,3 +4,11 @@
 //         3.Add two more to your array
 //         4.Remove the last tourist destination you have added
 //         5.display the final array as output
+
+
+
+const place = ['bandorban','kuyakata','centmartin'];
+place.push("cox's-bazar");
+place.push("sitakundo","sajek");
+place.pop();
+console.log(place);
